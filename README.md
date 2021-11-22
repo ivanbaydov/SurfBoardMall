@@ -1,1 +1,2 @@
 # SurfBoardMall
+This program will display the user 5 diffrent outputs to choose from a list. When a letter its called from the user it will search it in the if statement and display the function that was created for that type of question. if a diffrent letter is inputed from the user insted of the letter listed from the program it will print out Invalid option and print the same statement "Please enter selection: ". The code will loop until the user enters in q.
